@@ -1,0 +1,11 @@
+/Users/herjus/Repositories/Rust playground/IcedGui/target/debug/deps/glyphon-7c072b2b034cc232.rmeta: /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/lib.rs /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/error.rs /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/text_atlas.rs /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/text_render.rs /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/shader.wgsl
+
+/Users/herjus/Repositories/Rust playground/IcedGui/target/debug/deps/libglyphon-7c072b2b034cc232.rlib: /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/lib.rs /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/error.rs /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/text_atlas.rs /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/text_render.rs /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/shader.wgsl
+
+/Users/herjus/Repositories/Rust playground/IcedGui/target/debug/deps/glyphon-7c072b2b034cc232.d: /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/lib.rs /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/error.rs /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/text_atlas.rs /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/text_render.rs /Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/shader.wgsl
+
+/Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/lib.rs:
+/Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/error.rs:
+/Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/text_atlas.rs:
+/Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/text_render.rs:
+/Users/herjus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glyphon-0.3.0/src/shader.wgsl:
