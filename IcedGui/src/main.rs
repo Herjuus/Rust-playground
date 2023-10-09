@@ -30,6 +30,6 @@ impl Sandbox for Editor {
     fn view(&self) -> Element<'_, Self::Message> {
         let value = "Test";
 
-        text_input("Placeholder...", value).on_input(Message::TextInputChanged).into()
+        text("Hello World").into()
     }
 }
